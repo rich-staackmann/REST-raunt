@@ -1,0 +1,9 @@
+E:\Git\rest-example\RestStore\Domain\bin\Release\netcoreapp2.0\Domain.deps.json
+E:\Git\rest-example\RestStore\Domain\bin\Release\netcoreapp2.0\Domain.dll
+E:\Git\rest-example\RestStore\Domain\bin\Release\netcoreapp2.0\Domain.pdb
+E:\Git\rest-example\RestStore\Domain\obj\Release\netcoreapp2.0\Domain.csprojAssemblyReference.cache
+E:\Git\rest-example\RestStore\Domain\obj\Release\netcoreapp2.0\Domain.csproj.CoreCompileInputs.cache
+E:\Git\rest-example\RestStore\Domain\obj\Release\netcoreapp2.0\Domain.AssemblyInfoInputs.cache
+E:\Git\rest-example\RestStore\Domain\obj\Release\netcoreapp2.0\Domain.AssemblyInfo.cs
+E:\Git\rest-example\RestStore\Domain\obj\Release\netcoreapp2.0\Domain.dll
+E:\Git\rest-example\RestStore\Domain\obj\Release\netcoreapp2.0\Domain.pdb

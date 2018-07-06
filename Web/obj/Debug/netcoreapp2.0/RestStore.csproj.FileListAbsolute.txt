@@ -1,0 +1,14 @@
+E:\Git\rest-example\RestStore\RestStore\bin\Debug\netcoreapp2.0\RestStore.deps.json
+E:\Git\rest-example\RestStore\RestStore\bin\Debug\netcoreapp2.0\RestStore.runtimeconfig.json
+E:\Git\rest-example\RestStore\RestStore\bin\Debug\netcoreapp2.0\RestStore.runtimeconfig.dev.json
+E:\Git\rest-example\RestStore\RestStore\bin\Debug\netcoreapp2.0\RestStore.dll
+E:\Git\rest-example\RestStore\RestStore\bin\Debug\netcoreapp2.0\RestStore.pdb
+E:\Git\rest-example\RestStore\RestStore\bin\Debug\netcoreapp2.0\Domain.dll
+E:\Git\rest-example\RestStore\RestStore\bin\Debug\netcoreapp2.0\Domain.pdb
+E:\Git\rest-example\RestStore\RestStore\obj\Debug\netcoreapp2.0\RestStore.csprojAssemblyReference.cache
+E:\Git\rest-example\RestStore\RestStore\obj\Debug\netcoreapp2.0\RestStore.csproj.CoreCompileInputs.cache
+E:\Git\rest-example\RestStore\RestStore\obj\Debug\netcoreapp2.0\RestStore.AssemblyInfoInputs.cache
+E:\Git\rest-example\RestStore\RestStore\obj\Debug\netcoreapp2.0\RestStore.AssemblyInfo.cs
+E:\Git\rest-example\RestStore\RestStore\obj\Debug\netcoreapp2.0\RestStore.csproj.CopyComplete
+E:\Git\rest-example\RestStore\RestStore\obj\Debug\netcoreapp2.0\RestStore.dll
+E:\Git\rest-example\RestStore\RestStore\obj\Debug\netcoreapp2.0\RestStore.pdb
